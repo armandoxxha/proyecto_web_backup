@@ -5,7 +5,7 @@ def lang() -> rx.Component:
     return rx.script("document.documentElement.lang='es'")
 
 
-preview = "https://armando-web.vercel.app/avatar1.jpg"
+preview = "https://armandodev1.vercel.app/avatar1.jpg"
 
 _meta = [
     {"name": "og:type", "content":"website"},
